@@ -8,4 +8,4 @@ The platform using several key feature :
 - typescript augmentation for easy readability
 
 Library used is as follow
-React,Vite,redux,react-bootstrap, react-bootstrap-icon, redux-persist, redux, redux-offline, typescript, axios
+React,Vite,redux,react-bootstrap, react-bootstrap-icon, redux-persist, redux, redux-offline, typescript, axios,openweather-api-node
